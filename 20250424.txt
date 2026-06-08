@@ -1,12 +1,11 @@
 
-### Git Workflow
+# Student Marks Calculator
 
-After creating the files:
+A simple C program that:
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-repository-url>
-git push -u origin main
+- Accepts marks for Mathematics, Science, and English
+- Calculates total and average
+- Assigns a grade
+- Determines pass/fail status
+- Displays the highest subject mark
+- Checks for distinction eligibility
